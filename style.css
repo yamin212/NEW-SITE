@@ -20,3 +20,10 @@ h1{font-size: 80;}
 .half-width img{
     width: 70%;
 }
+.full-banner{ background-image: url(/bg.jpg);
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+}
