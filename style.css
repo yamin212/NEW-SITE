@@ -6,9 +6,12 @@ h1{font-size: 80;}
     color: red;
     font-size: 80;
 }
-.button1 { font-family: bold;
-    font-style: inherit;
-    color: salmon;
+.button1 {
+   background-image:linear-gradient(LightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: wheat;
+    font-weight: 700;
 }
 .half-width{
     width: 40%;
